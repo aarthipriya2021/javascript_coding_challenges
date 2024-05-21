@@ -11,3 +11,11 @@ function reversePyramid(rows) {
     }
 }
 reversePyramid(6)
+
+// o/p:
+// ***********
+//  *********
+//   *******
+//    *****
+//     ***
+//      *
