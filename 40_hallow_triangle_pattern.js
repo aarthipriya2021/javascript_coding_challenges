@@ -15,3 +15,14 @@ function hallowTriangle(rows){
     }
 }
 hallowTriangle(9)
+
+// o/p: 
+//          *
+//         * *
+//        *   *
+//       *     *
+//      *       *
+//     *         *
+//    *           *
+//   *             *
+// ******************

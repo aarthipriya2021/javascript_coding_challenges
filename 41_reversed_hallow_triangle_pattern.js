@@ -14,4 +14,15 @@ function reversedHallowTriangle(rows){
         console.log(line);
     }
 }
-reversedHallowTriangle(9)
+reversedHallowTriangle(9);
+
+// o/p:
+// ******************
+//   *             *
+//    *           *
+//     *         *
+//      *       *
+//       *     *
+//        *   *
+//         * *
+//          *
